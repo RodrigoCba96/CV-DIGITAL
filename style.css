@@ -1,0 +1,91 @@
+.TITULO1 {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.979);
+    margin-top: -0rem;
+    padding: 1%; 
+}
+
+
+.nombre {
+    text-align: left;
+    margin-left: 47%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+}
+
+.datos {
+
+    text-align: justify;
+    margin-left: 44%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+
+}
+
+.carta{
+    text-align: justify;
+    margin-left: 5%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+
+}
+
+
+.img1 {
+    margin-left: 44%;
+    width: 250px;
+}
+
+
+.horarios {
+    text-align: justify;
+    margin-left: 1%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+
+}
+
+.title-horarios{
+
+    text-align: justify;
+    margin-left: 1%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+ 
+
+}
+
+.full {
+    background-color: rgb(99, 192, 99);
+    color: azure;
+
+}
+
+.otros {
+
+    text-align: justify;
+    margin-left: 5%;
+    font-family: 'PT Sans', sans-serif;
+    color: azure;
+
+
+}
+
+.boton {
+    margin-top: 3%;
+    margin-left: 6%;
+    background-color: rgb(247, 247, 247);
+    font-family: 'PT Sans', sans-serif;
+    font-size: large;
+
+}
+
+.boton:hover {
+    background-color: rgb(255, 72, 0);
+ }
